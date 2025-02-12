@@ -1,3 +1,4 @@
+![logo](https://github.com/ayesha2422/Ayesha/blob/main/ayesha.htm)
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">A passionate about Data Science</h3>
 <img> align="right" alt="coding" width="400"scr=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif&psig=AOvVaw1Wv7vzay5SA5-oeNymzpyo&ust=1739443547652000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJin28H6vYsDFQAAAAAdAAAAABAE
